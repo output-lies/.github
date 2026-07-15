@@ -19,4 +19,4 @@ A diff, a terminal, a pasted command: each renders untrusted bytes as instructio
 
 Neutralize. Surface. Fail closed.
 
-Built with AI assistance. Every demonstration is benign and for education only.
+Built with AI assistance ([how that is handled](https://org-ai-assisted.github.io)). Every demonstration is benign and for education only.
