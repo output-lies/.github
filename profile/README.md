@@ -19,4 +19,9 @@ A diff, a terminal, a pasted command: each renders untrusted bytes as instructio
 
 Neutralize. Surface. Fail closed.
 
+## Family
+
+- [secure-terminal](https://github.com/secure-terminal): a terminal where paste is safe by construction, the tool that removes the problem these demos document ([secure-terminal.github.io](https://secure-terminal.github.io)).
+- [org-ai-assisted](https://github.com/org-ai-assisted): how these AI-assisted projects are built and reviewed.
+
 Built with AI assistance ([how that is handled](https://org-ai-assisted.github.io)). Every demonstration is benign and for education only.
